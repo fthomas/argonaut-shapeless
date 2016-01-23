@@ -1,5 +1,7 @@
 # argonaut-shapeless
 
+[![Join the chat at https://gitter.im/fthomas/argonaut-shapeless](https://badges.gitter.im/fthomas/argonaut-shapeless.svg)](https://gitter.im/fthomas/argonaut-shapeless?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Automatic [argonaut](https://github.com/argonaut-io/argonaut) codec derivation with [shapeless](https://github.com/milessabin/shapeless)
 
 [![Build Status](https://travis-ci.org/alexarchambault/argonaut-shapeless.svg)](https://travis-ci.org/alexarchambault/argonaut-shapeless)
